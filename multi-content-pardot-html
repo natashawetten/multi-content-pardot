@@ -1,0 +1,980 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office">
+<head>
+<!--[if gte mso 9]><xml>
+<o:OfficeDocumentSettings>
+<o:AllowPNG/>
+<o:PixelsPerInch>96</o:PixelsPerInch>
+</o:OfficeDocumentSettings>
+</xml><![endif]-->
+<title>Email Template</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0 " />
+<meta name="format-detection" content="telephone=no"/>
+	<meta name="x-apple-disable-message-reformatting" />
+<style type="text/css">
+	@import url('https://fonts.googleapis.com/css?family=Roboto+Slab&display=swap');
+	@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+	@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap');
+body { margin: 0 !important; padding: 0 !important; -webkit-text-size-adjust: 100% !important; -ms-text-size-adjust: 100% !important; -webkit-font-smoothing: antialiased !important; }
+img { border: 0 !important; outline: none !important; }
+p { Margin: 0px !important; Padding: 0px !important; }
+table { border-collapse: collapse; mso-table-lspace: 0px; mso-table-rspace: 0px; }
+td, a, span { border-collapse: collapse; mso-line-height-rule: exactly; }
+.ExternalClass * { line-height: 100%; }
+.em_defaultlink a { color: inherit !important; text-decoration: none !important; }
+span.MsoHyperlink { mso-style-priority: 99; color: inherit; }
+span.MsoHyperlinkFollowed { mso-style-priority: 99; color: inherit; }
+	.em_img_hide_desktop {display: none !important;}
+ @media only screen and (min-width:481px) and (max-width:599px) {
+.em_main_table { width: 100% !important; }
+.em_wrapper { width: 100% !important; }
+	 .em_wrapper_preheader_one { width: 90px !important; }
+	  .em_wrapper_two { width: 42px !important; }
+	 .em_wrapper_three { width: 10px !important; }
+	 .em_wrapper_four { width: 200px !important; padding-left: 20px; }
+.em_side { width: 10px !important; }
+.em_aside { padding: 0 10px !important; }
+.em_hide { display: none !important; }
+.em_img { width: 100% !important; height: auto !important; }
+.em_img1 { width: 100% !important; height: auto !important; max-width: none !important; }
+	 .em_img_none {display: none !important;}
+	 .em_img_hide_desktop {
+    display: table !important;
+    float: none !important;
+    width: 100% !important;
+    overflow: visible !important;
+    height: auto !important;
+}
+	 .em_img_column {
+    width: 100% !important;
+    height: auto !important;
+    max-width: 100% !important;
+}
+.em_center { text-align: center !important; }
+.em_height { height: 20px !important; }
+.em_h15 { height: 15px !important; line-height: 0px !important; font-size: 0px !important; }
+.em_top { padding-top: 20px !important; }
+.em_pad { padding: 0 10px !important; }
+.em_auto { height: auto !important; }
+}
+@media screen and (max-width: 480px) {
+.em_main_table { width: 100% !important; }
+.em_wrapper { width: 100% !important; }
+	.em_wrapper_one { width: 90px !important; }
+	 .em_wrapper_two { width: 42px !important; }
+	 .em_wrapper_three { width: 10px !important; }
+	 .em_wrapper_four { width: 200px !important; padding-left: 20px; }
+	
+.em_side { width: 10px !important; }
+.em_aside { padding: 0 10px !important; }
+.em_hide { display: none !important; }
+.em_img { width: 100% !important; height: auto !important; }
+.em_img1 { width: 100% !important; height: auto !important; max-width: none !important; }
+	.em_img_none {display: none !important;}
+	.em_img_hide_desktop {
+    display: table !important;
+    float: none !important;
+    width: 100% !important;
+    overflow: visible !important;
+    height: auto !important;
+}
+	.em_img_column {
+    width: 100% !important;
+    height: auto !important;
+    max-width: 100% !important;
+}
+.em_center { text-align: center !important; }
+.em_height { height: 20px !important; }
+.em_h15 { height: 15px !important; line-height: 0px !important; font-size: 0px !important; }
+.em_top { padding-top: 20px !important; }
+.em_pad { padding: 0 10px !important; }
+u + .em_body .em_full_wrap { width: 100% !important; width: 100vw !important; }
+.em_font { font-size: 11px !important; line-height: 16px !important; }
+.em_font1 { font-size: 19px !important; line-height: 23px !important; }
+.em_auto { height: auto !important; }
+}
+</style>
+</head>
+
+<body class="em_body" style="margin:0px; padding:0px;" bgcolor="#F0F0F0">
+<div style="display:none;font-size:1px;color:#ffffff;line-height:1px;font-family:sans-serif;max-height:0px;max-width:0px;opacity:0;overflow:hidden;mso-hide:all;">ERT</div>
+
+<table bgcolor="#F0F0F0" border="0" cellpadding="0" cellspacing="0" class="em_full_wrap" width="100%">
+	
+	
+	<!--HEADER SECTION START-->
+	<tbody>
+		<tr>
+			<td align="center" valign="top">
+			<table align="center" border="0" cellpadding="0" cellspacing="0" class="em_main_table" style="width:620px; table-layout:fixed;" width="620">
+				
+				<!--LOGO BANNER SECTION START-->
+								<tr>
+									<td align="center" bgcolor="#ffffff" class="em_aside" style="padding:0 20px; border-top: 8px #0092bc solid;" valign="top">
+									<table align="center" border="0" cellpadding="0" cellspacing="0" class="em_wrapper" style="width:580px;" width="580">
+										<tbody>
+											<tr>
+												<td height="20" style="height:20px; font-size:0px; line-height:0px;">&nbsp;</td>
+											</tr>
+											<tr>
+												<td align="center" valign="top">
+												<table class="em_wrapper" align="center" border="0" cellpadding="0" cellspacing="0" style="width:580px;" width="580">
+													<tbody>
+														<tr>
+															<td align="center" valign="top"><img alt="ERT logo" border="0" height="35" src="https://placeholder.com/wp-content/uploads/2018/10/placeholder.com-logo1.png" width="167"></td>
+														</tr>
+													</tbody>
+												</table>
+
+											
+
+												
+												</td>
+											</tr>
+											
+											<tr>
+												<td height="20" style="height:20px;">&nbsp;</td>
+											</tr>
+											
+										</tbody>
+									</table>
+									</td>
+								</tr>
+								<!--LOGO BANNER SECTION END-->
+					
+					
+					
+					
+					
+					
+				
+			</table>
+			</td>
+		</tr>
+		<!--HEADER SECTION END-->
+		
+		
+		
+		<!--CONTENT SECTION START-->
+		<tr>
+			<td align="center" valign="top">
+			<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="em_main_table" style="width:600px;" width="600">
+				<tbody>
+					<tr>
+						<td align="center" valign="top">
+						<table align="center" border="0" cellpadding="0" cellspacing="0" class="em_wrapper" style="width:600px;" width="600">
+							<tbody>
+								
+												
+								
+								<!-- HERO IMAGE START-->
+								<tr bgcolor="#ffffff" pardot-repeatable="Hero-Image">
+									<td align="center" valign="top">
+									<table align="center" border="0" cellpadding="0" cellspacing="0" class="em_wrapper" style="width:620px;" width="620">
+										<tbody>
+											<tr>
+												<td align="center" valign="top"><img pardot-region="Hero-Image" pardot-region-type="image" alt="ERT" border="0" class="em_img" height="auto" src="http://via.placeholder.com/620x300" style="display: block; max-width: 620px; width: 620px; height: auto; border-width: 0px;" width="620"></td>
+											</tr>
+												
+											<tr bgcolor="#FFFFFF">
+												<td height="20" style="height:20px;">&nbsp;</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+								<!-- HERO IMAGE END-->
+								
+								<!--HEADLINE START-->
+								<tr pardot-repeatable="Headlilne" bgcolor="#FFFFFF">
+									<td align="center" class="em_aside" style="padding:0 20px;" valign="top">
+									<table align="center" border="0" cellpadding="0" cellspacing="0" class="em_wrapper" style="width:580px;" width="580">
+										<tbody>
+											
+											<tr bgcolor="#FFFFFF">
+												<td height="20" style="height:20px;">&nbsp;</td>
+											</tr>
+											
+											<tr>
+												<td pardot-region="Primary-Headline" pardot-region-type="simple" align="center" style="font-family: arial, sans-serif; font-size:24px; line-height:32px; text-transform: uppercase; color:#003865; font-weight: bold;" valign="top">Lorem ipsum dolor sit amet, consectetur adipiscing elit</td>
+											</tr>
+											<tr bgcolor="#FFFFFF">
+												<td height="20" style="height:20px;">&nbsp;</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+								<!--HEADLINE END-->
+								
+								
+								
+								
+								
+								
+								
+			<!--BODY COPY START-->
+								<tr pardot-repeatable="Body-Copy" bgcolor="#FFFFFF">
+									<td align="center" class="em_aside" style="padding:0 20px;" valign="top">
+									<table align="center" border="0" cellpadding="0" cellspacing="0" class="em_wrapper" style="width:580px;" width="580">
+										<tbody>
+											<tr bgcolor="#FFFFFF">
+												<td height="20" style="height:20px;">&nbsp;</td>
+											</tr>
+											
+											<tr>
+												<td pardot-region="Body-Copy" align="left" style="font-family: arial, sans-serif; font-size:16px; line-height:26px; color:#707070;" valign="top">Dear %%first_name%%,<br>
+												<br>
+												Velit laoreet id donec ultrices. Tempus egestas sed sed risus pretium. Felis bibendum ut tristique et egestas quis ipsum suspendisse ultrices. Nulla aliquet porttitor lacus luctus accumsan. Lectus sit amet est placerat in egestas erat imperdiet sed. Sed velit dignissim sodales ut eu sem integer vitae. Fermentum dui faucibus in ornare quam viverra. Nec ullamcorper sit amet risus nullam. In aliquam sem fringilla ut. Diam quis enim lobortis scelerisque.</td>
+											</tr>
+										
+										<tr bgcolor="#FFFFFF">
+												<td height="20" style="height:20px;">&nbsp;</td>
+											</tr>
+											
+										</tbody>
+									</table>
+									</td>
+								</tr>
+								<!--BODY COPY END-->
+								
+								
+								
+								<!--ONE CTA BUTTON CENTER START-->
+								<tr pardot-repeatable="CTA-Button" bgcolor="#ffffff">
+									<td align="center" class="em_aside" style="padding: 0 20px;" valign="top">
+									<table align="center" border="0" cellpadding="0" cellspacing="0" class="em_wrapper" style="width:580px;" width="580">
+										<tbody>
+											<tr bgcolor="#FFFFFF">
+												<td height="20" style="height:20px;">&nbsp;</td>
+											</tr>
+											<tr>
+												<td align="center" valign="top">
+												<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td>
+      <table align="center" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td bgcolor="#ff8a3d" style="padding: 12px 18px 12px 18px;" align="center"><a pardot-region="Button" href="#" target="_blank" style="font-size: 16px; font-family: Arial, sans-serif; font-weight: bold; color: #ffffff; text-decoration: none; text-transform: uppercase; display: inline-block;">Lorem Ipsum</a></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+												</td>
+											</tr>
+											
+											<tr bgcolor="#FFFFFF">
+												<td height="20" style="height:20px;">&nbsp;</td>
+											</tr>
+											
+										</tbody>
+									</table>
+									</td>
+								</tr>
+								<!--ONE CTA BUTTON CENTER END-->
+								
+								
+								
+								
+								
+								
+								
+								
+								
+							<!--FEATURED IMAGE OR VIDEO START-->
+								<tr bgcolor="#ffffff" pardot-repeatable="FEATURED IMAGE OR VIDEO">
+									<td align="center" class="em_aside" style="padding:0 20px;" valign="top">
+									<table align="center" border="0" cellpadding="0" cellspacing="0" class="em_wrapper" style="width:580px;" width="580">
+										<tbody>
+											
+											<tr>
+												<td height="20" style="height:20px;">&nbsp;</td>
+											</tr>
+											
+											<tr align="center">
+												<td align="center" valign="top"><img pardot-region="Featured-Image-Video" alt="ERT" border="0" class="em_img1" height="auto" src="http://via.placeholder.com/480X260" style="display:block; max-width:480px;" width="480"></td>
+											</tr>
+											
+											<tr>
+												<td height="20" style="height:20px;">&nbsp;</td>
+											</tr>
+											
+										</tbody>
+									</table>
+									</td>
+								</tr>
+								<!--FEATURED IMAGE OR VIDEO END-->	
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+							
+								
+							<!--RIGHT IMAGE LEFT CONTENT SECTION START-->
+								<tr bgcolor="#ffffff" pardot-repeatable="Right-Image-Left-Content">
+									<td align="center" class="em_aside" style="padding:0 20px;" valign="top">
+									<table align="center" border="0" cellpadding="0" cellspacing="0" class="em_wrapper" style="width:580px;" width="580">
+										<tbody>
+											
+											
+											<tr bgcolor="#FFFFFF">
+												<td height="20" style="height:20px;">&nbsp;</td>
+											</tr>
+											
+											<tr>
+												<td align="center" valign="top">
+												<table align="center" border="0" cellpadding="0" cellspacing="0" class="em_wrapper" dir="rtl" style="width:580px;" width="580">
+													<tbody>
+														<tr>
+															<td align="center" valign="top">
+															<table align="right" border="0" cellpadding="0" cellspacing="0" class="em_wrapper" dir="ltr" style="width:320px;" width="320">
+																<tbody>
+																	<tr bgcolor="#FFFFFF">
+												<td height="10" style="height:10px;">&nbsp;</td>
+											</tr>
+																	<tr>
+																		<td align="center" valign="top"><img pardot-region="Right-Side-Image" alt="ERT" border="0" class="em_img" height="auto" width="320" src="http://via.placeholder.com/320x200" style="display:block; max-width:320px;" ></td>
+																	</tr>
+																</tbody>
+															</table>
+															<!--[if gte mso 9]>
+        </td>
+        <td valign="top">
+    <![endif]-->
+
+															<table align="left" border="0" cellpadding="0" cellspacing="0" class="em_wrapper" dir="ltr" style="width:240px;" width="240">
+																<tbody>
+																	<tr>
+																		<td align="center" class="em_auto" height="180" style="height:180px;" valign="top">
+																		<table align="left" border="0" cellpadding="0" cellspacing="0" class="em_wrapper" style="width:240px;" width="240">
+																			<tbody>
+																				
+																				<tr bgcolor="#FFFFFF">
+												<td height="10" style="height:10px;">&nbsp;</td>
+											</tr>
+																			  <tr>
+																					<td pardot-region="Left-Side-Headline" pardot-region-type="simple" align="left" style="font-family:Arial,  sans-serif; font-size:18px; line-height:24px; color:#0094c1; font-weight:bold;" valign="top">Nullam urna sem sodales dolor eget ultricies facilisis</td>
+																				</tr>
+																				
+																				<tr bgcolor="#FFFFFF">
+												<td height="10" style="height:10px;">&nbsp;</td>
+											</tr>
+																				
+																				<tr>
+																					<td pardot-region="Left-Side-Body-Copy" pardot-region-type="simple" align="left" style="font-family: arial, sans-serif; font-size:16px; line-height:26px; color:#707070;" valign="top">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ultrices risus at scelerisque rhoncus.</td>
+																				</tr>
+																				
+																				<tr bgcolor="#FFFFFF">
+												<td height="10" style="height:10px;">&nbsp;</td>
+											</tr>
+																				
+																				<tr>
+																					<td align="left" style="font-family: Arial, sans-serif; font-size:16px; line-height:26px; color:#ff8a3d; font-weight:bold;" valign="top"><a pardot-region="Left-Side-CTA" href="#" style="text-decoration: none; color:#ff8a3d;" target="_blank">Lorem Ipsum</a></td>
+																				</tr>
+																			</tbody>
+																		</table>
+																		</td>
+																	</tr>
+																</tbody>
+															</table>
+															</td>
+														</tr>
+													</tbody>
+												</table>
+												</td>
+											</tr>
+											
+											<tr bgcolor="#FFFFFF">
+												<td height="20" style="height:20px;">&nbsp;</td>
+											</tr>
+											
+											
+											
+										</tbody>
+									</table>
+									</td>
+								</tr>
+								<!--RIGHT IMAGE LEFT CONTENT SECTION END-->	
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								<!--LEFT IMAGE RIGHT CONTENT SECTION START-->
+								<tr bgcolor="#ffffff" pardot-repeatable="Left-Image-Right-Content">
+									<td align="center" class="em_aside" style="padding:0 20px;" valign="top">
+									<table align="center" border="0" cellpadding="0" cellspacing="0" class="em_wrapper" style="width:580px;" width="580">
+										<tbody>
+											
+											<tr bgcolor="#FFFFFF">
+												<td height="20" style="height:20px;">&nbsp;</td>
+											</tr>
+											
+											<tr>
+												<td align="center" valign="top">
+												<table align="center" border="0" cellpadding="0" cellspacing="0" class="em_wrapper" style="width:580px;" width="580">
+													<tbody>
+														<tr>
+															<td align="center" valign="top">
+															<table align="left" border="0" cellpadding="0" cellspacing="0" class="em_wrapper" style="width:320px;" width="320">
+																<tbody>
+																	<tr bgcolor="#FFFFFF">
+												<td height="10" style="height:10px;">&nbsp;</td>
+											</tr>
+																	<tr>
+																		<td align="center" valign="top"><img pardot-region="Left-Side-Image" alt="ERT" border="0" class="em_img1" height="auto" width="320" src="http://via.placeholder.com/320x200" style="display:block; max-width:320px;" ></td>
+																	</tr>
+																</tbody>
+															</table>
+															<!--[if gte mso 9]>
+        </td>
+        <td valign="top">
+    <![endif]-->
+
+															<table align="right" border="0" cellpadding="0" cellspacing="0" class="em_wrapper" style="width:240px;" width="240">
+																<tbody>
+																	<tr>
+																		<td align="center" class="em_auto" height="180" style="height:180px;" valign="top">
+																		<table align="left" border="0" cellpadding="0" cellspacing="0" class="em_wrapper" style="width:240px;" width="240">
+																			<tbody>
+																				<tr bgcolor="#FFFFFF">
+												<td height="10" style="height:10px;">&nbsp;</td>
+											</tr>
+																			  <tr>
+																					<td pardot-region="Right-Side-Headline" pardot-region-type="simple" align="left" style="font-family:Arial,  sans-serif; font-size:18px; line-height:24px; color:#0094c1; font-weight:bold;" valign="top">Nullam urna sem sodales dolor eget ultricies facilisis</td>
+																				</tr>
+																				
+																				<tr bgcolor="#FFFFFF">
+												<td height="10" style="height:10px;">&nbsp;</td>
+											</tr>
+																				
+																				<tr>
+																					<td pardot-region="Right-Side-Body-Copy" pardot-region-type="simple" align="left" style="font-family: arial, sans-serif; font-size:16px; line-height:26px; color:#707070;" valign="top">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ultrices risus at scelerisque rhoncus.</td>
+																				</tr>
+																				
+																				<tr bgcolor="#FFFFFF">
+												<td height="10" style="height:10px;">&nbsp;</td>
+											</tr>
+																				
+																				<tr>
+																					<td align="left" style="font-family: Arial, sans-serif; font-size:16px; line-height:26px; color:#ff8a3d; font-weight:bold;" valign="top"><a pardot-region="Right-Side-CTA" href="#" style="text-decoration: none; color:#ff8a3d;" target="_blank">Lorem Ipsum</a></td>
+																				</tr>
+																			</tbody>
+																		</table>
+																		</td>
+																	</tr>
+																</tbody>
+															</table>
+															</td>
+														</tr>
+													</tbody>
+												</table>
+												</td>
+											</tr>
+												<tr bgcolor="#FFFFFF">
+												<td height="20" style="height:20px;">&nbsp;</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+								<!--LEFT IMAGE RIGHT CONTENT SECTION END-->
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								<!--TWO COLUMN SECTION START-->
+								<tr pardot-repeatable="Two-Column" bgcolor="#ffffff">
+									<td align="center" class="em_aside" style="padding:0 20px;" valign="top">
+									<table align="center" border="0" cellpadding="0" cellspacing="0" class="em_wrapper" style="width:580px;" width="580">
+										<tbody><!--SPACING START-->
+											<tr bgcolor="#FFFFFF">
+												<td class="em_height" height="20" style="height:20px;">&nbsp;</td>
+											</tr>
+											<!--SPACING END-->
+											<tr>
+												<td valign="top">
+												<table align="left" border="0" cellpadding="0" cellspacing="0" class="em_wrapper" style="width:270px;" width="270">
+													<tbody>
+														<tr>
+															<td align="center" valign="top"><img pardot-region="Left-Column-Image" alt="ERT" border="0" class="em_img1" height="auto" src="http://via.placeholder.com/270x180" style="display:block; max-width:270px;" width="270"></td>
+														</tr>
+														<tr>
+															<td align="center" valign="top">
+															<table align="center" border="0" cellpadding="0" cellspacing="0" class="em_wrapper" style="width:270px;" width="270">
+																<tbody>
+																	<tr>
+																		<td align="center" valign="top">
+																		<table align="center" border="0" cellpadding="0" cellspacing="0" class="em_wrapper" style="width:270px;" width="270">
+																			<tbody>
+																				<tr>
+																					<td class="em_height" height="23" style="height:23px;">&nbsp;</td>
+																				</tr>
+																				<tr>
+																					<td pardot-region="Left-Column-Headline" pardot-region-type="simple" align="left" style="font-family:Arial,  sans-serif; font-size:18px; line-height:24px; color:#0094c1; font-weight:bold;" valign="top">Nullam urna sem sodales dolor eget ultricies facilisis</td>
+																				</tr>
+																			
+																				<tr>
+																					<td height="20" style="height:20px;">&nbsp;</td>
+																				</tr>
+																				
+																				<tr>
+																					<td pardot-region="Left-Column-Body-Copy" pardot-region-type="simple" align="left" style="font-family: arial, sans-serif; font-size:16px; line-height:26px; color:#707070;" valign="top">Lectus sit amet est placerat in egestas erat imperdiet sed. Sed velit dignissim sodales ut eu sem integer vitae. Fermentum dui faucibus in ornare quam viverra. Nec ullamcorper sit amet risus nullam. In aliquam sem fringilla ut. Diam quis enim lobortis scelerisque.</td>
+																				</tr>
+																				<tr>
+																					<td height="20" style="height:20px; font-size:0px; line-height:0px;">&nbsp;</td>
+																				</tr>
+																				
+																				
+																				<tr>
+												<td align="center" valign="top">
+												<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td>
+      <table align="center" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td bgcolor="#ff8a3d" style="padding: 12px 18px 12px 18px;" align="center"><a pardot-region="Button" href="#" target="_blank" style="font-size: 16px; font-family: Arial, sans-serif; font-weight: bold; color: #ffffff; text-decoration: none; text-transform: uppercase; display: inline-block;">Lorem Ipsum</a></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+												</td>
+											</tr>
+																				
+																			</tbody>
+																		</table>
+																		</td>
+																	</tr>
+																	<tr>
+																					<td bgcolor="#ffffff" height="20" style="height:20px; font-size:0px; line-height:0px;">&nbsp;</td>
+																				</tr>
+																</tbody>
+															</table>
+															</td>
+														</tr>
+													</tbody>
+												</table>
+												<!--[if gte mso 9]>
+        </td>
+        <td valign="top" >
+    <![endif]-->
+
+												<table align="left" border="0" cellpadding="0" cellspacing="0" class="em_hide" width="40">
+													<tbody>
+														<tr>
+															<td>&nbsp;</td>
+														</tr>
+													</tbody>
+												</table>
+												<!--[if gte mso 9]>
+        </td>
+        <td valign="top" >
+    <![endif]-->
+
+												<table align="left" border="0" cellpadding="0" cellspacing="0" class="em_wrapper" style="width:270px;" width="270">
+													<tbody>
+														<tr>
+															<td align="center" valign="top"><img pardot-region="Right-Column-Image" alt="ERT" border="0" class="em_img1" height="auto" src="http://via.placeholder.com/270x180" style="display:block; max-width:270px;" width="270"></td>
+														</tr>
+														<tr>
+															<td align="center" valign="top">
+															<table align="center" border="0" cellpadding="0" cellspacing="0" class="em_wrapper" style="width:270px;" width="270">
+																<tbody>
+																	<tr>
+																		<td align="center" valign="top">
+																		<table align="center" border="0" cellpadding="0" cellspacing="0" class="em_wrapper" style="width:270px;" width="270">
+																			<tbody>
+																				<tr>
+																					<td class="em_height" height="23" style="height:23px;">&nbsp;</td>
+																				</tr>
+																				<tr>
+																					<td pardot-region="Right-Column-Headline" pardot-region-type="simple" align="left" style="font-family:Arial,  sans-serif; font-size:18px; line-height:24px; color:#0094c1; font-weight:bold;" valign="top">Nullam urna sem sodales dolor eget ultricies facilisis</td>
+																				</tr>
+																				<tr>
+																					<td height="20" style="height:20px;">&nbsp;</td>
+																				</tr>
+																				<tr>
+																					<td pardot-region="Right-Column-Body-Copy" pardot-region-type="simple" align="left" style="font-family: arial, sans-serif; font-size:16px; line-height:26px; color:#707070;" valign="top">Lectus sit amet est placerat in egestas erat imperdiet sed. Sed velit dignissim sodales ut eu sem integer vitae. Fermentum dui faucibus in ornare quam viverra. Nec ullamcorper sit amet risus nullam. In aliquam sem fringilla ut. Diam quis enim lobortis scelerisque.</td>
+																				</tr>
+																				<tr>
+																					<td height="20" style="height:20px; font-size:0px; line-height:0px;">&nbsp;</td>
+																				</tr>
+																				
+																				
+																				
+																				<tr>
+												<td align="center" valign="top">
+												<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td>
+      <table align="center" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td bgcolor="#ff8a3d" style="padding: 12px 18px 12px 18px;" align="center"><a pardot-region="Button" href="#" target="_blank" style="font-size: 16px; font-family: Arial, sans-serif; font-weight: bold; color: #ffffff; text-decoration: none; text-transform: uppercase; display: inline-block;">Lorem Ipsum</a></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+												</td>
+											</tr>
+																				
+																				
+																				
+																			</tbody>
+																		</table>
+																		</td>
+																	</tr>
+																	<tr>
+																					<td bgcolor="#ffffff" height="20" style="height:20px; font-size:0px; line-height:0px;">&nbsp;</td>
+																				</tr>
+																</tbody>
+															</table>
+															</td>
+														</tr>
+													</tbody>
+												</table>
+												</td>
+											</tr>
+											<!--SPACING START-->
+											<tr>
+												<td height="20" style="height:20px;">&nbsp;</td>
+											</tr>
+											<!--SPACING END-->
+										</tbody>
+									</table>
+									</td>
+								</tr>
+								<!--TWO COLUMN SECTION END-->
+								
+								
+								
+								
+								
+								
+								
+								
+							<tr pardot-repeatable="EVENT BOX">
+									<td align="center" class="em_aside" style="padding:0 20px;" valign="top">
+									<table align="center" border="0" cellpadding="0" cellspacing="0" class="em_wrapper" style="width:580px;" width="580">
+										<tbody>
+											<tr>
+												<td align="center" valign="top">
+												<table border="0" cellpadding="0" cellspacing="0" class="em_wrapper" style="width:540px;" width="100%">
+													<tbody>
+														<tr>
+															<td bgcolor="#00a890" style="width:7px;" width="7"><img alt="" border="0" height="1" src="http://storage.pardot.com/71652/192145/spacer.gif" style="display:block;" width="1"></td>
+															<td align="center" valign="top">
+															<table border="0" cellpadding="0" cellspacing="0" class="em_wrapper" style="width:526px;" width="526">
+																<tbody>
+																	<tr>
+																		<td bgcolor="#00a890" height="7" style="font-size:1px; line-height:1px;">&nbsp;</td>
+																	</tr>
+																	<tr>
+																		<td align="center" valign="top">
+																		<table bgcolor="#f6f7f7" border="0" cellpadding="0" cellspacing="0" class="em_wrapper" style="width:526px;" width="526">
+																			<tbody>
+																				<tr>
+																					<td class="em_side" style="width:40px;" width="40">&nbsp;</td>
+																					<td align="center" valign="top">
+																					<table border="0" cellpadding="0" cellspacing="0" class="em_wrapper" style="width:454px;" width="454">
+																						<tbody>
+																							<tr>
+																								<td height="15" style="font-size:1px; line-height:1px;">&nbsp;</td>
+																							</tr>
+																							<tr>
+																								<td align="center" valign="top">
+																								<table border="0" cellpadding="0" cellspacing="0" class="em_wrapper" style="width:454px;" width="100%">
+																									<tbody>
+																										<tr>
+																											<td valign="top">
+																											<table align="left" border="0" cellpadding="0" cellspacing="0" class="em_wrapper" style="width:34px;" width="34">
+																												<tbody>
+																													<tr>
+																														<td class="em_hide" height="29" style="font-size:1px; line-height:1px; height:29px;">&nbsp;</td>
+																													</tr>
+																													<tr style="">
+																														<td align="center" valign="top"><img pardot-region="Event-Icon" alt="ERT" border="0" height="34" src="http://storage.pardot.com/71652/192129/ftr_img.jpg" style="display:block; max-width:34px;" width="34"></a></td>
+																													</tr>
+																												</tbody>
+																											</table>
+																											<!--[if gte mso 9]>
+        </td>
+        <td valign="top" >
+    <![endif]-->
+
+																											<table align="left" border="0" cellpadding="0" cellspacing="0" class="em_hide" style="width:57px;" width="57">
+																												<tbody>
+																													<tr>
+																														<td>&nbsp;</td>
+																													</tr>
+																												</tbody>
+																											</table>
+																											<!--[if gte mso 9]>
+        </td>
+        <td valign="top" >
+    <![endif]-->
+
+																											<table align="right" border="0" cellpadding="0" cellspacing="0" class="em_wrapper" style="width:363px;" width="363">
+																												<tbody>
+																													<tr>
+																					<td height="10" style="height:10px; font-size:0px; line-height:0px;">&nbsp;</td>
+																				</tr>
+																													<tr>
+																														<td align="left"  pardot-region="Event-Headline"
+																															pardot-region-type="simple" style="font-family:Arial,  sans-serif; font-size:16px; line-height:18px; color:#0092bc; font-weight:bold;" valign="top">Name of Event</td>
+																													</tr>
+																													<tr>
+																														<td height="13" style="font-size:1px; line-height:1px;">&nbsp;</td>
+																													</tr>
+																													<tr style="">
+																														<td align="left" pardot-region="Event-Date"
+																															pardot-region-type="simple" style="font-family:Arial,  sans-serif; font-size:13px; line-height:22px; color:#747678; font-weight:bold; font-style:italic;" valign="top">June 14, 2030</td>
+																													</tr>
+																													<tr>
+																														<td height="3" style="font-size:1px; line-height:1px;">&nbsp;</td>
+																													</tr>
+																													<tr>
+																														<td align="left" class="em_grey3" pardot-region="Event-Description"
+																															pardot-region-type="simple" style="font-family:Arial,  sans-serif; font-size:14px; line-height:20px; color:#747678;" valign="top">Pellentesque orci odio sollicitudin et cursus eu efficitur sed ante maximus nisi at hendrerit.</td>
+																													</tr>
+																													<tr>
+																														<td height="3" style="font-size:1px; line-height:1px;">&nbsp;</td>
+																													</tr>
+																													<tr>
+																														<td align="left"  style="font-family:Arial,  sans-serif; font-size:15px; line-height:20px; color:#ff8a3d; font-weight:bold;" valign="top"><a pardot-region="Event-Register"
+																															 href="http://www.google.com" style="text-decoration:none; color:#ff8a3d;" target="_blank">Register Now</a></span></td>
+																													</tr>
+																												</tbody>
+																											</table>
+																											</td>
+																										</tr>
+																									</tbody>
+																								</table>
+																								</td>
+																							</tr>
+																							<tr>
+																								<td height="15" style="font-size:1px; line-height:1px;">&nbsp;</td>
+																							</tr>
+																						</tbody>
+																					</table>
+																					</td>
+																					<td class="em_side" style="width:32px;" width="32">&nbsp;</td>
+																				</tr>
+																			</tbody>
+																		</table>
+																		</td>
+																	</tr>
+																	<tr>
+																		<td bgcolor="#00a890" height="7" style="font-size:1px; line-height:1px;">&nbsp;</td>
+																	</tr>
+																</tbody>
+															</table>
+															</td>
+															<td bgcolor="#00a890" style="width:7px;" width="7"><img alt="" border="0" height="1" src="http://storage.pardot.com/71652/192145/spacer.gif" style="display:block;" width="1"></td>
+														</tr>
+													</tbody>
+												</table>
+												</td>
+											</tr>
+											<tr>
+												<td class="em_height" height="25" style="height:25px;">&nbsp;</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>	
+								
+								
+								
+								
+								
+								
+								
+								
+								
+							<!--FOOTER SECTION START-->
+								<tr>
+									<td align="center" valign="top">
+									<table align="center" bgcolor="#efefef" border="0" cellpadding="0" cellspacing="0" class="em_main_table" style="width:620px;" width="620">
+										<tbody>
+											<tr>
+												<td align="center" class="em_aside" style="padding:0 20px;" valign="top">
+												<table align="center" border="0" cellpadding="0" cellspacing="0" class="em_wrapper" style="width:580px;" width="580">
+													<tbody>
+														<tr>
+															<td height="30" style="height:30px;">&nbsp;</td>
+														</tr>
+														
+														<tr>
+															<td align="center" valign="top">
+															<table align="center" border="0" cellpadding="0" cellspacing="0" class="em_wrapper" style="width:540px;" width="540">
+																<tbody>
+																	<tr>
+																		<td align="center" valign="top">
+																		<table align="left" border="0" cellpadding="0" cellspacing="0" class="em_wrapper" style="width:290px;" width="290">
+																			<tbody>
+																				<tr>
+																					<td align="center" valign="top">
+																					<table align="center" border="0" cellpadding="0" cellspacing="0" style="width:290px;" width="290">
+																						<tbody>
+																							<tr>
+																								<td align="center" valign="middle">
+																								<table align="center" border="0" cellpadding="0" cellspacing="0" style="width:130px;" width="130">
+																									<tbody>
+																										<tr>
+																											<td align="center"  valign="middle"><img alt="" border="0" height="18" src="https://placeholder.com/wp-content/uploads/2018/10/placeholder.com-logo1.png" style="display:block; max-width:92px;" width="92"></td>
+																										</tr>
+																									</tbody>
+																								</table>
+																								</td>
+																								<td bgcolor="#dfdfdf" style="width:1px;" width="1"><img alt="" border="0" height="1" src="http://storage.pardot.com/71652/192145/spacer.gif" style="display:block;" width="1"></td>
+																								<td style="width:20px;" width="20"><img alt="" border="0" height="1" src="http://storage.pardot.com/71652/192145/spacer.gif" style="display:block;" width="1"></td>
+																								<td align="center" valign="top">
+																								<table align="right" border="0" cellpadding="0" cellspacing="0" class="em_wrapper">
+																									<tbody>
+																										<tr>
+																											<td height="10" style="font-size:1px; line-height:1px;">&nbsp;</td>
+																										</tr>
+																										<tr>
+																											<td align="left" class="em_gray1 em_center em_top"  style="font-family:Arial, sans-serif; font-size:14px; line-height:16px; color:#666666;" valign="top"><span style="color:#003865;">Website:</span> <a href="https://www.ert.com/" style="text-decoration:none; color:#666666;" target="_blank">hi.com</a><br>
+																											<br>
+																											<span style="color:#003865;">Email:</span> <a href="mailto:info@ert.com" style="text-decoration:none; color:#666666;">info@hi.com</a></td>
+																										</tr>
+																										<tr>
+																											<td height="10" style="font-size:1px; line-height:1px;">&nbsp;</td>
+																										</tr>
+																									</tbody>
+																								</table>
+																								</td>
+																							</tr>
+																						</tbody>
+																					</table>
+																					</td>
+																				</tr>
+																			</tbody>
+																		</table>
+																		<!--[if gte mso 9]>
+        </td>
+        <td valign="top">
+    <![endif]-->
+
+																		<table align="right" border="0" cellpadding="0" cellspacing="0" class="em_wrapper">
+																			<tbody>
+																				<tr>
+																					<td align="center" class="em_top" valign="top">
+																					<table align="center" border="0" cellpadding="0" cellspacing="0">
+																						<tbody>
+																							<tr>
+																								<td height="14" style="font-size:1px; line-height:1px;">&nbsp;</td>
+																							</tr>
+																							<tr>
+																								<td align="center" valign="top">
+																								<table border="0" cellpadding="0" cellspacing="0" width="100%">
+																									<tbody>
+																										<tr>
+																											<td align="center" valign="top"><a href="https://twitter.com/" style="text-decoration:none;" target="_blank"><img alt="tw" border="0" height="32" src="http://storage.pardot.com/71652/192147/twitter_logo.png" style="display:block; max-width:32px; font-family:Arial, sans-serif; font-size:15px; line-height:20px; color:#000000; text-align:center;" width="32"></a></td>
+																											<td style="width:5px;" width="5"><img alt="" border="0" height="1" src="http://storage.pardot.com/71652/192145/spacer.gif" style="display:block;" width="1"></td>
+																											<td align="center" valign="top"><a href="https://www.linkedin.com/" style="text-decoration:none;" target="_blank"><img alt="in" border="0" height="32" src="http://storage.pardot.com/71652/192139/linkedin_logo.png" style="display:block; max-width:32px; font-family:Arial, sans-serif; font-size:15px; line-height:20px; color:#000000; text-align:center;" width="32"></a></td>
+																										</tr>
+																									</tbody>
+																								</table>
+																								</td>
+																							</tr>
+																						</tbody>
+																					</table>
+																					</td>
+																				</tr>
+																			</tbody>
+																		</table>
+																		</td>
+																	</tr>
+																</tbody>
+															</table>
+															</td>
+														</tr>
+														
+														<tr>
+															<td height="25" style="height:25px;">&nbsp;</td>
+														</tr>
+														
+													</tbody>
+												</table>
+												</td>
+											</tr>
+											<tr>
+												<td bgcolor="#dfdfdf" height="1" style="height:1px; font-size:0px; line-height:0px;"><img alt="" border="0" height="1" src="http://storage.pardot.com/71652/192145/spacer.gif" style="display:block;" width="1"></td>
+											</tr>
+											<tr>
+												<td align="center" class="em_aside" style="padding:0 30px;" valign="top">
+												<table align="center" border="0" cellpadding="0" cellspacing="0" class="em_wrapper" style="width:540px;" width="540">
+													<tbody>
+														<tr>
+															<td height="15" style="height:15px;">&nbsp;</td>
+														</tr>
+														
+														<tr>
+														  <td align="center" class="em_gray2" style="font-family:Arial, sans-serif; font-size:13px; line-height:22px; color:#777777;" valign="top">© %%current_year_YYYY%% All Rights Reserved. %%account_address%%<br />
+
+														
+															<a href="../ERT Email Templates/%%email_preference_center%%" style="text-decoration:none; color:#777777;" target="_blank">Manage Your Subscription Preferences</a> | 															<a href="../ERT Email Templates/%%unsubscribe%%" style="text-decoration:none; color:#777777;" target="_blank">Unsubscribe</a></td>
+														</tr>
+														
+														<tr>
+															<td height="30" style="height:30px;">&nbsp;</td>
+														</tr>
+														
+													</tbody>
+												</table>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+								<!--FOOTER SECTION END-->
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</body>
+</html>
